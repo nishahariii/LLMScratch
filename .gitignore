@@ -137,6 +137,7 @@ celerybeat.pid
 # Environments
 .LLMScratch/
 .llms/
+.llms3.10/
 .env
 .envrc
 .venv
