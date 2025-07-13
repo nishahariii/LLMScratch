@@ -16,15 +16,5 @@ tqdm == 4.66.4
 pandas >= 2.2.1
 psutil >= 5.9.5
 # litgpt[all] >= 0.4.1
-litgpt == 0.4.1
-# torch 
-# jupyterlab
-# tiktoken
-# matplotlib
-# numpy
-# tensorflow
-# tqdm
-# numpy
-# pandas
-# psutil
-# litgpt[all]
+# litgpt == 0.4.1
+litgpt == 0.4.3
