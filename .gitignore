@@ -140,6 +140,7 @@ celerybeat.pid
 .llms3.10/
 .llm3.10/
 gpt2/
+checkpoints/
 .env
 .envrc
 .venv
